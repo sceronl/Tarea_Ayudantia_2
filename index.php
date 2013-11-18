@@ -45,7 +45,8 @@
 	  'Luchemos por darle el sitial que represente de mejor manera la Ingeniería de software',
 	  'Si usted sabe lo que tiene que hacer.... entonces hagalo bien.',
 	  'Hagalo bien');
-	echo $prueba[9];
+	  $valor_rand = rand(0,11);
+	echo $prueba[$valor_rand];
 
     ?>
 				</h2>
