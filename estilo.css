@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 body{
-	background:url(images/bg_body.png) repeat;
+	background: #F5F5DC;
 	font-family: 'Open Sans', sans-serif;
 	color:#4070B7;
 }
