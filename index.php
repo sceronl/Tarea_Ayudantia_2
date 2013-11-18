@@ -1,4 +1,4 @@
-<!doctype html>
+<DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
@@ -58,7 +58,7 @@
             	<ul>
                 	<li class="que_1">
                     	<span>
-							<br><br><br><br><br><br><br><br><br><br>
+							<br><br><br><br><br><br><br><br><br><br/>
                     	<h3>Sebastian Ceron</h3>
                         <p>Carrera: Ingeneria civil en computaciíon m/informatica </p>
                         <p>Edad: 23 Años</p>

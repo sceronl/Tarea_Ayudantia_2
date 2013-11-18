@@ -206,7 +206,7 @@ header{
 }
 .que_1{
 	background:url(images/ceron.png) no-repeat left top;
-	width:400px;
+	width:350px;
 }
 .que_1 span{
 	display:block;
@@ -214,7 +214,7 @@ header{
 }
 .que_2{
 	background:url(images/rubilar.png) no-repeat left top;
-	width:430px;
+	width:350px;
 	height:140px;
 	margin-left:530px;
 }
@@ -224,7 +224,7 @@ header{
 }
 .que_3{
 	background:url(images/briones.png) no-repeat left top;
-	width:420px;
+	width:350px;
 }
 .que_3 span{
 	display:block;
